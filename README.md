@@ -35,8 +35,7 @@ This project demonstrates a simple autonomous obstacle-avoiding car using Arduin
 2. If an object is detected within 20 cm, the car stops.
 3. If the path is clear, the car moves forward.
 
-## 🖥️ Arduino Code
-See the `object_detection_car.ino` file in this repository.
+
 
 ## 🧪 Testing
 - Upload the code to your Arduino using the Arduino IDE.
